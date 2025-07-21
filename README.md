@@ -69,4 +69,3 @@ python ./MOSE-MOE+Ours/main.py --method moseomkdccl --n_tasks 10 --dataset image
 ## Acknowledgement
 
 This implementation is based on the CCL-DC and MOSE-MOE framework. Special thanks to [maorong-wang](https://github.com/maorong-wang) and [Hongwei Yan](https://github.com/AnAppleCore/MOSE) for their contribution to the framework and the implementation of recent state-of-the-art methods. 
-# GWM
